@@ -1,0 +1,3 @@
+﻿  Laba_5_SPO.cpp
+d:\спо1\лабы\laba_5_spo\laba_5_spo.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba_5_SPO.vcxproj -> D:\СПО1\Лабы\Laba_5_SPO\Debug\Laba_5_SPO.exe
